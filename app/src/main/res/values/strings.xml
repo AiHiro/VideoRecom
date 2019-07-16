@@ -1,3 +1,4 @@
 <resources>
+    <string name="bt0">change</string>
     <string name="app_name">VideoRecomApp</string>
 </resources>
